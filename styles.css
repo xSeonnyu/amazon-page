@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    width: 350px;
+    box-shadow: 0px 2px 5px lightgray;
+}
+
+.main {
+    width: 1000px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: left;
+}
+
+a {
+    color: #007185;
+}
+
+.bread-crumb {
+    color: #565959;
+}
+
+.description {
+    margin: 0 25px;
+}
